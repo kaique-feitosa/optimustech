@@ -312,7 +312,7 @@ body {
     transition: 0.4s;
 }
 
-.botao__entrar, .botao__cadastrar, .rodape__botao:hover {
+.botao__entrar:hover, .botao__cadastrar:hover, .rodape__botao:hover {
     cursor: pointer;
 }
 
@@ -322,6 +322,6 @@ body {
     transition: 0.4s;
 }
 
-.botao__cadastrar, .rodape__botao:hover {
+.botao__cadastrar:hover, .rodape__botao:hover {
     opacity: 0.8;
 }
